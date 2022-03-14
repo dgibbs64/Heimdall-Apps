@@ -5,6 +5,6 @@
     "license": "Apache 2.0",
     "description": "Fast, free and open-source spam filtering system.",
     "enhanced": false,
-    "tile_background": "dark",
+    "tile_background": "light",
     "icon": "rspamd.png"
 }
